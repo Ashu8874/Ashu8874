@@ -1,3 +1,19 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
+
+<h1 align="center">Hi There👋, I'm Anup Yadav</h1>
+<h3 align="center" text-alin="justify">Welcome to my GitHub profile!</h3>
+<h3 align="center">I'm a Software Engineer at Microsoft with a strong passion for solving complex problems and building innovative solutions. With a solid foundation in C++, Data Structures & Algorithms, and full-stack development, I love turning ideas into reality through code.
+</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupyadavmicrosoft&label=Profile%20views&color=0e75b6&style=flat" alt="anupyadavmicrosoft" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupyadavmicrosoft" alt="anupyadavmicrosoft" /></a> </p>
+
+
+
+
 - 👋 Hi, I’m Ashutosh Singh
 - 🚀 Aspiring MERN Full-Stack Developer | 💻 DSA Enthusiast | 🎯 Passionate about building scalable web applications
 
