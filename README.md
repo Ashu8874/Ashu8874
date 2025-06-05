@@ -7,9 +7,7 @@
 <h3 align="center">I'm a Software Engineer with a strong passion for solving complex problems and building innovative solutions. With a solid foundation in C++, Data Structures & Algorithms, and full-stack development, I love turning ideas into reality through code.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupyadavmicrosoft&label=Profile%20views&color=0e75b6&style=flat" alt="anupyadavmicrosoft" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupyadavmicrosoft" alt="anupyadavmicrosoft" /></a> </p>
 
 
 
