@@ -26,7 +26,7 @@ Web development projects
 - 📫 Reach Me
 - 📧 Email: Ashutoshsingh2322003@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/singh-ashu8874
-- 🐙 GitHub: https://github.com/Ashu8874/Ashu8874/
+- 🐙 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshsingh" alt="ashutoshsingh" /></a></p>
 - ⚡ Fun Fact
 - I enjoy solving LeetCode challenges and love exploring new web technologies!
 
